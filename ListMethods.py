@@ -27,4 +27,19 @@ print(list)
 
 Num = [1, 4, 2, 9, 7, 8, 9, 3, 1]            #It will count how many times 9 occur in the list 
 x = Num.count(9)
+print(x)
+
+#index() method
+#it returns first occurrence in the list,it will return index of element    | SYNTAX  list.index(item)
+
+list = [2, 5, 7.9, "You", "Home", 10]
+p = list.index(5)                                 #it will show you index of '5' which is 1
+print(p)
+
+#sum method
+#it calculate sum of all elements
+
+list = [2, 5, 7, 9,10, 1, 20]
+print(sum(list))                              #it will show you sum of all elements that is 54
+
 
