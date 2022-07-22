@@ -42,4 +42,4 @@ print(p)
 list = [2, 5, 7, 9,10, 1, 20]
 print(sum(list))                              #it will show you sum of all elements that is 54
 
-
+ 
