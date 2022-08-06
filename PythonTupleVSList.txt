@@ -1,0 +1,19 @@
+Difference Between List and Tuple
+                     List
+1.List is changeable
+2.Lists consume more memory
+3.Lists have several built-in methods
+4.Lists are enclosed in brackets ( [ ] ) and their elements and size can be changed
+5.The implication of iterations is Time-consuming
+6.The list is better for performing operations, such as insertion and deletion.
+
+
+
+                          Tuple
+1.Tuple is unchangeable
+2.Tuple consumes less memory as compared to the list
+3.Tuple does not have many built-in methods.
+4.Tuples are enclosed in parentheses ( ( ) ) and cannot be updated. 
+5.The implication of iterations is comparatively Faster
+6.Tuple data type is appropriate for accessing the elements
+
