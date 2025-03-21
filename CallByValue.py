@@ -1,7 +1,7 @@
 string = 'Talat'
 
 def test(string):
-    string = "YouTubeChannne"
+    string = "YouTubeChannel"
     print("Inside function:",string)
 
 test(string)
